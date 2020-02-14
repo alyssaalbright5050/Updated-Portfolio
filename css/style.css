@@ -144,3 +144,7 @@
   color: rgb(231, 161, 225);
   text-decoration: wavy;
 }
+.carousel-item {
+  height: 500px;
+  width: 500px;
+}
